@@ -13,7 +13,10 @@ Getting Started
 
 This project implemented a desktop program that allows the user to resize images.
 
+Full project details
+-------
 
+https://github.com/fengyuwu/Seam-Carving/blob/master/README.pdf
 
 Result
 -------
